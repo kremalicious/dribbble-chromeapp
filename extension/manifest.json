@@ -1,0 +1,17 @@
+{
+  "name": "__MSG_appName__",
+  "description": "__MSG_appDesc__",
+  "version": "1.0",
+  "default_locale": "en",
+  "app": {
+  	"launch": {
+  	  "web_url": "http://dribbble.com"
+  	},
+    "urls": [ "http://dribbble.com" ]
+  },
+  "icons": {
+    "128": "icon128.png",
+    "48": "icon48.png",
+    "16": "icon16.png"
+  }
+}
