@@ -5,9 +5,8 @@
   "default_locale": "en",
   "app": {
   	"launch": {
-  	  "web_url": "http://dribbble.com"
-  	},
-    "urls": [ "http://dribbble.com" ]
+  	  "local_path": "goto.html"
+  	}
   },
   "icons": {
     "128": "icon128.png",
